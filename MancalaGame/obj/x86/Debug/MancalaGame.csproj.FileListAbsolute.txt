@@ -1,0 +1,30 @@
+C:\Users\Usama\Documents\Visual Studio 2013\Projects\MancalaGame\MancalaGame\bin\Debug\MancalaGame.exe.config
+C:\Users\Usama\Documents\Visual Studio 2013\Projects\MancalaGame\MancalaGame\obj\x86\Debug\MancalaGame.csprojResolveAssemblyReference.cache
+C:\Users\Usama\Documents\Visual Studio 2013\Projects\MancalaGame\MancalaGame\obj\x86\Debug\MancalaGame.Main.resources
+C:\Users\Usama\Documents\Visual Studio 2013\Projects\MancalaGame\MancalaGame\obj\x86\Debug\MancalaGame.Properties.Resources.resources
+C:\Users\Usama\Documents\Visual Studio 2013\Projects\MancalaGame\MancalaGame\obj\x86\Debug\MancalaGame.csproj.GenerateResource.Cache
+C:\Users\Usama\Documents\Visual Studio 2013\Projects\MancalaGame\MancalaGame\bin\Debug\MancalaGame.exe
+C:\Users\Usama\Documents\Visual Studio 2013\Projects\MancalaGame\MancalaGame\bin\Debug\MancalaGame.pdb
+C:\Users\Usama\Documents\Visual Studio 2013\Projects\MancalaGame\MancalaGame\obj\x86\Debug\MancalaGame.exe
+C:\Users\Usama\Documents\Visual Studio 2013\Projects\MancalaGame\MancalaGame\obj\x86\Debug\MancalaGame.pdb
+C:\Users\Mouayyad Taja\Desktop\MancalaGame\MancalaGame\MancalaGame\bin\Debug\MancalaGame.exe.config
+C:\Users\Mouayyad Taja\Desktop\MancalaGame\MancalaGame\MancalaGame\obj\x86\Debug\MancalaGame.exe
+C:\Users\Mouayyad Taja\Desktop\MancalaGame\MancalaGame\MancalaGame\obj\x86\Debug\MancalaGame.pdb
+D:\4th\خوارزميات بحث ذكية\Programs\MancalaGame\MancalaGame\MancalaGame\bin\Debug\MancalaGame.exe.config
+D:\4th\خوارزميات بحث ذكية\Programs\MancalaGame\MancalaGame\MancalaGame\obj\x86\Debug\MancalaGame.exe
+D:\4th\خوارزميات بحث ذكية\Programs\MancalaGame\MancalaGame\MancalaGame\obj\x86\Debug\MancalaGame.pdb
+D:\4th\خوارزميات بحث ذكية\Programs\MancalaGame\MancalaGame\MancalaGame\bin\Debug\MancalaGame.exe
+D:\4th\خوارزميات بحث ذكية\Programs\MancalaGame\MancalaGame\MancalaGame\bin\Debug\MancalaGame.pdb
+D:\4th\خوارزميات بحث ذكية\Programs\MancalaGame\MancalaGame\MancalaGame\obj\x86\Debug\MancalaGame.csprojResolveAssemblyReference.cache
+D:\4th\خوارزميات بحث ذكية\Programs\MancalaGame\MancalaGame\MancalaGame\obj\x86\Debug\MancalaGame.Main.resources
+D:\4th\خوارزميات بحث ذكية\Programs\MancalaGame\MancalaGame\MancalaGame\obj\x86\Debug\MancalaGame.Properties.Resources.resources
+D:\4th\خوارزميات بحث ذكية\Programs\MancalaGame\MancalaGame\MancalaGame\obj\x86\Debug\MancalaGame.csproj.GenerateResource.Cache
+H:\ITE Projects\4-fourth Year\Intelligence Search Algorithms\MancalaGame\MancalaGame\MancalaGame\MancalaGame\bin\Debug\MancalaGame.exe.config
+H:\ITE Projects\4-fourth Year\Intelligence Search Algorithms\MancalaGame\MancalaGame\MancalaGame\MancalaGame\bin\Debug\MancalaGame.exe
+H:\ITE Projects\4-fourth Year\Intelligence Search Algorithms\MancalaGame\MancalaGame\MancalaGame\MancalaGame\bin\Debug\MancalaGame.pdb
+H:\ITE Projects\4-fourth Year\Intelligence Search Algorithms\MancalaGame\MancalaGame\MancalaGame\MancalaGame\obj\x86\Debug\MancalaGame.csprojResolveAssemblyReference.cache
+H:\ITE Projects\4-fourth Year\Intelligence Search Algorithms\MancalaGame\MancalaGame\MancalaGame\MancalaGame\obj\x86\Debug\MancalaGame.Main.resources
+H:\ITE Projects\4-fourth Year\Intelligence Search Algorithms\MancalaGame\MancalaGame\MancalaGame\MancalaGame\obj\x86\Debug\MancalaGame.Properties.Resources.resources
+H:\ITE Projects\4-fourth Year\Intelligence Search Algorithms\MancalaGame\MancalaGame\MancalaGame\MancalaGame\obj\x86\Debug\MancalaGame.csproj.GenerateResource.Cache
+H:\ITE Projects\4-fourth Year\Intelligence Search Algorithms\MancalaGame\MancalaGame\MancalaGame\MancalaGame\obj\x86\Debug\MancalaGame.exe
+H:\ITE Projects\4-fourth Year\Intelligence Search Algorithms\MancalaGame\MancalaGame\MancalaGame\MancalaGame\obj\x86\Debug\MancalaGame.pdb

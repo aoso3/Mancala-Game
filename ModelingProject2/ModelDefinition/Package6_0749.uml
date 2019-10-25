@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm5="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="403b9161-875b-4cfd-942e-703a3d0f2652"
+  name="WinControls"
+  visibility="Private" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <referencesInternal>
+    <reference
+      Id="9da88d23-2cae-442f-a586-c27ce66bdc52"
+      handle="viewcode://./CodeSchema_Namespace?Namespace%3DTelerik.WinControls"
+      tag="ViewCode" />
+  </referencesInternal>
+  <packagedElements>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="a8f10f0f-2f05-4bce-a0bd-76081d31d79e"
+        LastKnownName="UI"
+        LastKnownLocation="Package7_0749.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="29870907-9be2-407b-8b58-444ff2f37f9c"
+        LastKnownName="Themes"
+        LastKnownLocation="Package9_0749.uml" />
+    </packageHasNamedElement>
+  </packagedElements>
+</package>

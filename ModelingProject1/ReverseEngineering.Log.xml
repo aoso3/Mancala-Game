@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 12.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/ReverseEngineeringLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2016-12-24T07:00:16" Importance="High" Text="Reverse Engineering Started." />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: '021a7e0e-09ee-4cd3-a94d-72483f23f13c' -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Boolean' -  (PrimitiveType)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Integer' -  (PrimitiveType)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame' -  (Package)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main' -  (Class)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::components' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::Dispose' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::Dispose::disposing' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::finishPlay' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::game' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::InitializeComponent' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::l0' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::l1' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::l10' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::l11' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::l12' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::l13' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::l2' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::l3' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::l4' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::l5' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::l6' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::l7' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::l8' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::l9' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::label4_Click' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::label4_Click::e' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::label4_Click::sender' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::label8_Click' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::label8_Click::e' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::label8_Click::sender' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::lblName' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::level' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::Main' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox1' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox1_Click' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox1_Click::e' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox1_Click::sender' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox10' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox10_Click' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox10_Click::e' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox10_Click::sender' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox11' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox11_Click' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox11_Click::e' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox11_Click::sender' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox12' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox13' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox13_Click' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox13_Click::e' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox13_Click::sender' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox14' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox14_Click' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox14_Click::e' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox14_Click::sender' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox2' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox3' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox3_Click' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox3_Click::e' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox3_Click::sender' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox4' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox4_Click' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox4_Click::e' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox4_Click::sender' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox5' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox5_Click' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox5_Click::e' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox5_Click::sender' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox6' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox6_Click' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox6_Click::e' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox6_Click::sender' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox7' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox7_Click' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox7_Click::e' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox7_Click::sender' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox8' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox8_Click' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox8_Click::e' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox8_Click::sender' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox9' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox9_Click' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox9_Click::e' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::pictureBox9_Click::sender' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::play' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::play::index' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::play::playerNum' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::radButton1' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::radButton1_Click' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::radButton1_Click::e' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::radButton1_Click::sender' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::radButton2' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::radButton2_Click' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::radButton2_Click::e' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::radButton2_Click::sender' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::radioButton1' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::radioButton2' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::radioButton3' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::radioButton4' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::radioButton5' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::radioButton6' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::radioButton6_CheckedChanged' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::radioButton6_CheckedChanged::e' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::radioButton6_CheckedChanged::sender' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::radLabel1' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::radLabel2' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::radLabel2_Click' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::radLabel2_Click::e' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::radLabel2_Click::sender' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::radLabel2_Click_1' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::radLabel2_Click_1::e' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::radLabel2_Click_1::sender' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::radPanel1' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::radPanel2' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::radTextBox1' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::radTextBox1_TextChanged' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::radTextBox1_TextChanged::e' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::radTextBox1_TextChanged::sender' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::stonesNumber' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::t' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::telerikMetroBlueTheme1' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::towPlayer' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Main::updateBoard' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard' -  (Class)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::doTheMove' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::doTheMove::chosenPitNum' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::doTheMove::currentPlayerNum' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::doTheMove::towPlayer' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::emptyStonesIntoMancalas' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::emptyStonesIntoMancalas::towPlyar' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::evaluate' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::evaluate::playerNum' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::gameOver' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::getMancala' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::getMancala::playerNum' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::getNextPossibleBoard' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::getNextPossibleBoard::playerNum' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::getPitNum' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::getPitNum::pitNum' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::getPitNum::playerNum' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::getPitNum::towPlayer' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::isAMancala' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::isAMancala::pitNum' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::lastMove' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::makeACopy' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::MancalaBoard' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::oppositePitNum' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::oppositePitNum::pitNum' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::otherPlayerNum' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::otherPlayerNum::playerNum' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::ownerOf' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::ownerOf::pitNum' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::pits' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::playingPits' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::repeated' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::setUpForPlay' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::stonesInMancala' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::stonesInMancala::playerNum' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::stonesInPit' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::stonesInPit::pitNum' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::stonesInPit::playerNum' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::stonesInPit::towPlayer' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::stonesNumber' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaBoard::totalPits' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaGame' -  (Class)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaGame::board' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaGame::computerPlay' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaGame::currentPlayer' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaGame::displayPlayer' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaGame::displayPlayer::playerNum' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaGame::humanPlay' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaGame::humanPlay::currentPlayer' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaGame::humanPlay::pitNum' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaGame::humanPlay::towPlayer' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaGame::level' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaGame::MancalaGame' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaGame::MancalaGame::level' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaGame::MancalaGame::name0' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaGame::MancalaGame::name1' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaGame::MancalaGame::stonesNumber' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaGame::MancalaGame::towPlayer' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaGame::maxMin' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaGame::maxMin::board' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaGame::maxMin::level' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaGame::minMax' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaGame::minMax::board' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaGame::minMax::level' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaGame::play' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaGame::players' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::MancalaGame::towPlayer' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Pit' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Pit::addStones' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Pit::addStones::stones' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Pit::getStones' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Pit::isEmpty' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Pit::Pit' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Pit::removeStones' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Pit::stones' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Player' -  (Class)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Player::getName' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Player::name' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Player::Player' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Player::Player::name' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Player::Player::playerNum' -  (Parameter)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Player::playerNum' -  (Property)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Program' -  (Class)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::MancalaGame::Program::Main' -  (Operation)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System' -  (Package)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Collections' -  (Package)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Collections::Generic' -  (Package)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Collections::Generic::List' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Collections::Generic::List&lt;MancalaBoard‎&gt;' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::ComponentModel' -  (Package)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::ComponentModel::IContainer' -  (Interface)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::EventArgs' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Object' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Threading' -  (Package)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Threading::Thread' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Windows' -  (Package)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Windows::Forms' -  (Package)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Windows::Forms::Label' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Windows::Forms::PictureBox' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Windows::Forms::RadioButton' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Telerik' -  (Package)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Telerik::WinControls' -  (Package)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Telerik::WinControls::Themes' -  (Package)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Telerik::WinControls::Themes::TelerikMetroBlueTheme' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Telerik::WinControls::UI' -  (Package)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Telerik::WinControls::UI::RadButton' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Telerik::WinControls::UI::RadForm' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Telerik::WinControls::UI::RadLabel' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Telerik::WinControls::UI::RadPanel' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Telerik::WinControls::UI::RadTextBox' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'String' -  (PrimitiveType)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::MancalaGame::Main to ModelingProject1::Telerik::WinControls::UI::RadForm (Generalization)" />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="High" Text="(5) type(s) fully reverse engineered." />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="High" Text="(16) type(s) partially reverse engineered.  These types were not included in the original selection so their full definitions are not reverse engineered.  Instead, this shallow operation has simply ensured these types exist in the UML model because they are needed in order to fully describe other elements." />
+  <Message Timestamp="2016-12-24T07:00:24" Importance="High" Text="The reverse engineering operation completed with (0) error(s), and (0) warning(s)." />
+</Log>
